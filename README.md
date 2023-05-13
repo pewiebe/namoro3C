@@ -1,10 +1,6 @@
 <h1>Este programa foi desenvolvido com fins humorísticos, para pedir a pessoa amada em namoro. </h1>
 
-<p>Ideia do programa: https://www.instagram.com/reel/ChR-JePAO57/?igshid=MDJmNzVkMjY%3D</p>
-
 ![image](https://user-images.githubusercontent.com/82005636/185796220-038dc0f2-05fc-4b19-90b7-361aef42646d.png)
-
-
 
 <p>O programa consiste em uma simples interface, com um label e dois botões para a escolha.</p>
 
@@ -20,5 +16,3 @@
 
 <p>É um programa humorístico. Uma maneira engraçada de pedir a pessoa amada em namoro.</p>
 
-
-<p>Desenvolvido por Welber Caetano</p>
